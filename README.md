@@ -9,6 +9,8 @@ I work across React, Next.js, Vue, Node.js, Python, Go, and data-backed systems 
 [![Email](https://img.shields.io/badge/Email-a.sundakov1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.sundakov1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-eihosusss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eihosusss)
 [![Berlin](https://img.shields.io/badge/Berlin-Open_to_roles-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Preview Resume](https://img.shields.io/badge/Resume-Preview-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](./resume/resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume-Download_PDF-22C55E?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/eihosusss/eihosusss/raw/main/resume/resume.pdf)
 
 </div>
 
